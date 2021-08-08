@@ -1,6 +1,6 @@
 # SABRINA ALVES - WEB FULLSTACK DEV
 
-## 🎓 Analise e Desenvolvimento de Sistemas
+## 🎓 Generation Brasil
 ## 📍 São Paulo
 
 <div>
