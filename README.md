@@ -1,7 +1,7 @@
-# SABRINA ALVES - WEB FULLSTACK DEV
+## SABRINA ALVES - WEB FULLSTACK DEV
 
-## 🎓 Generation Brasil
-## 📍 São Paulo
+### 🎓 Generation Brasil
+### 📍 São Paulo
 
 <div>
   <a href="https://github.com/sabrinalvespaiva">
