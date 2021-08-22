@@ -1,4 +1,4 @@
-## SABRINA ALVES
+## SABRINA ALVES DE PAIVA
 
 ### 🎓 Generation Brasil
 ### 📍 São Paulo
